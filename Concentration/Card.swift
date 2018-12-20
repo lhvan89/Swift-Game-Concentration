@@ -26,18 +26,3 @@ struct Card {
         self.identifier = Card.getUniqueIdentifier()
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
